@@ -1,2 +1,2 @@
-# appmusica
-Prototipo de app de musica
+# Musify
+Criação do meu primeiro prototipo, um aplicativo de ouvir musicas.
